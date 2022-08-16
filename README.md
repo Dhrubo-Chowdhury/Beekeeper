@@ -5,7 +5,7 @@ A client named Soleng has requested the following pieces of information in csv f
   2. the number of comments from all of the posts per stream 
   3. the number of likes from all of the posts per stream 
   
-## Sample Output:
+## Generated Output:
  ```
 "streamId","postCount","commentCount","likeCount"
 "91234","2","0","3"
